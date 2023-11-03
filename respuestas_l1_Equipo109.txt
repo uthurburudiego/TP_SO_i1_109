@@ -10,3 +10,11 @@ Si se pueden ver claramente .
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 
 Si se puede ver y todos los commits.
+
+
+
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+Si, lo ven perfectamente
+
+d-¿De qué forma se comunicaron ustedes?
+Nos comunicamos usando whatsapp, meet y el proyect de github
