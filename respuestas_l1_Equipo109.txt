@@ -18,3 +18,6 @@ Si, lo ven perfectamente
 
 d-¿De qué forma se comunicaron ustedes?
 Nos comunicamos usando whatsapp, meet y el proyect de github
+
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+Mediante el proyect viendo que tarea está realizando cada miembro.
